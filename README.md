@@ -5,7 +5,7 @@ A simple password manager created using Python as a Project
 1. Clone\Download this Repository
 2. Edit Data in PASSWORDS dictionary or connect this script with a database
 3. Save the file path in PATH variable in Environment variables
-4. Now You may just copy password to clipboard using account name and key
+4. Now You may just copy password to clipboard using account name and key using Command Prompt or Terminal
 
 **_You may follow me and star this repo to contribute in my motivation for building more projects_**
 
