@@ -9,7 +9,7 @@ A simple password manager created using Python as a Project
 
 **_You may follow me and star this repo to contribute in my motivation for building more projects_**
 
-#TODO:
+# TODO:
 - [ ] Connect this script with a database
 - [ ] Encrypt it with a Master Password
 - [ ] More Convenient way to add a data in account
